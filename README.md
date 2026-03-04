@@ -25,13 +25,13 @@
 ## Description of functions
 * All your devices will be displayed on the main screen.
 
-* You can create your own dashboard.
+* You can create your own dashboard:
 1) Click "Dashboards" -> "+".
 2) Enter the name.
 3) Select devices to display in the dashboard.
 4) Click "Save".
 
-* You can change the order in which sensor groups are displayed.
+* You can change the order in which sensor groups are displayed:
 1) Click "Order".
 2) Change the order by dragging.
 3) Click "Done".
